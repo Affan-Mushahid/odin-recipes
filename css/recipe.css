@@ -1,0 +1,30 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    background-color: rgb(255, 245, 235);
+    color: rgb(36, 36, 36);
+}
+
+h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(2, 43, 58);
+}
+
+h1 {
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
