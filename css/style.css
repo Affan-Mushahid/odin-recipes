@@ -1,0 +1,14 @@
+* {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 2vw;
+    text-align: center;
+    background-color: rgb(255, 224, 192);
+    color: rgb(70, 39, 32);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 7vw;
+    font-weight: bold;
+    color: rgb(2, 43, 58);
+}
