@@ -1,6 +1,7 @@
 * {
     font-family: Verdana, Arial, sans-serif;
-    font-size: 2vw;
+    font-size: 32px;
+    font-weight: lighter;
     text-align: center;
     background-color: rgb(255, 224, 192);
     color: rgb(70, 39, 32);
@@ -8,7 +9,8 @@
 
 h1 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 7vw;
+    font-size: 120px;
     font-weight: bold;
     color: rgb(2, 43, 58);
+    background-color: rgb(255, 245, 235);
 }
